@@ -56,7 +56,6 @@ So, you've got text and you want it to talk? Well, aren't you just living in the
 
 Run the script, provide your text, and witness the magic of text turning into speech. It's like having your own voiceover artist, but without the hefty paycheck.
 
-![Magic](https://media.giphy.com/media/3o7TKUuaf00MLlujhe/giphy.gif)
 
 ## 📚 Dependencies
 
@@ -70,4 +69,4 @@ This project is licensed under the MIT License. Because sharing is caring. See t
 
 - A big shoutout to the `gTTS` library for making text sound better than it looks. We're forever grateful!
 
-![Thank You](https://media.giphy.com/media/xTiTnzX1uV7bCLpGSc/giphy.gif)
+![Thank You]
